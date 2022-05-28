@@ -1,0 +1,3 @@
+[submodule "memo_app"]
+	path = memo_app
+	url = git@github.com:Hirata-Kodai/funky_memoapp.git
